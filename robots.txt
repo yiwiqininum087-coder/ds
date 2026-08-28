@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /web.config
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+Sitemap: https://discordzapret.sbs/sitemap.xml
